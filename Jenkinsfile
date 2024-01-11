@@ -1,1 +1,1 @@
-Edit file
+print "Hello World!\n"
